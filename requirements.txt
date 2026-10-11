@@ -1,2 +1,6 @@
-
-plotly
+ploty
+streamlit
+pandas
+numpy
+yfinance
+groq
